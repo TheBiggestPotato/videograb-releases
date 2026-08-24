@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>VideoGrab</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Mon, 24 Aug 2026 14:07:31 +0300</pubDate>
+            <link>https://github.com/TheBiggestPotato/videograb-releases</link>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/TheBiggestPotato/videograb-releases/releases/download/v0.1.0/VideoGrab-0.1.0.dmg" length="49482106" type="application/octet-stream" sparkle:edSignature="z8bxRQPbgsau2MixR4mMiUT1gXDdDNtbRS3lDS2776khxLbStEd9C2ElQxLS8XHvXc72NHsheWdm7KbfXEH3Dg=="/>
+        </item>
+    </channel>
+</rss>
